@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1a784cd6-0587-4ef8-b93d-dbfe1a9b0661" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aniron.regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integration_maquette_finale/bg_light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration_maquette_finale/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nancy-lorenz_party-business/partybusiness.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pete-klassen_aniron/anirb___.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tngan.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partybusiness.ttf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,20 +89,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="357999937">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/CV/meetme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2180">
-              <caret line="323" column="7" selection-start-line="323" selection-start-column="7" selection-end-line="323" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-310" />
           </provider>
         </entry>
       </file>
@@ -143,9 +152,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
+    <option name="x" value="31" />
     <option name="y" value="23" />
-    <option name="width" value="1282" />
+    <option name="width" value="1119" />
     <option name="height" value="824" />
   </component>
   <component name="ProjectView">
@@ -159,23 +168,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="FindThePrecious3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindThePrecious3" type="462c0819:PsiDirectoryNode" />
+              <item name="MaïwennGay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaïwennGay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FindThePrecious3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindThePrecious3" type="462c0819:PsiDirectoryNode" />
-              <item name="integration_maquette_finale" type="462c0819:PsiDirectoryNode" />
+              <item name="MaïwennGay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaïwennGay" type="462c0819:PsiDirectoryNode" />
+              <item name="CV" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FindThePrecious3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindThePrecious3" type="462c0819:PsiDirectoryNode" />
-              <item name="nancy-lorenz_party-business" type="462c0819:PsiDirectoryNode" />
+              <item name="MaïwennGay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaïwennGay" type="462c0819:PsiDirectoryNode" />
+              <item name="CV" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FindThePrecious3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FindThePrecious3" type="462c0819:PsiDirectoryNode" />
-              <item name="pete-klassen_aniron" type="462c0819:PsiDirectoryNode" />
+              <item name="MaïwennGay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaïwennGay" type="462c0819:PsiDirectoryNode" />
+              <item name="CV" type="462c0819:PsiDirectoryNode" />
+              <item name="meetme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,6 +204,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CV/meetme" />
       <recent name="$PROJECT_DIR$/integration_maquette_finale" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -233,17 +245,19 @@
       <workItem from="1552321111409" duration="134000" />
       <workItem from="1552321374314" duration="174000" />
       <workItem from="1552322579806" duration="39000" />
+      <workItem from="1552487951286" duration="426000" />
+      <workItem from="1552488877035" duration="11000" />
+      <workItem from="1552489318906" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14292000" />
+    <option name="totallyTimeSpent" value="14870000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="23" width="1282" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="31" y="23" width="1119" height="824" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2717742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3286908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,38 +285,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pete-klassen_aniron/readme.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration_maquette_finale/coin_sauron2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pete-klassen_aniron/readme.html" />
+    <entry file="file://$PROJECT_DIR$/integration_maquette_finale/coin_sauron2.png" />
     <entry file="file://$PROJECT_DIR$/integration_maquette_finale/bg_light.png" />
     <entry file="file://$PROJECT_DIR$/../../PhpstormProjects/SASS/logo.png" />
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="258" column="18" selection-start-line="258" selection-start-column="18" selection-end-line="258" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/style.scss" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/CV/meetme/Capture d’écran de 2019-03-13 15-21-30.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
+    <entry file="file://$PROJECT_DIR$/CV/meetme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2180">
-          <caret line="323" column="7" selection-start-line="323" selection-start-column="7" selection-end-line="323" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-310" />
       </provider>
     </entry>
   </component>
